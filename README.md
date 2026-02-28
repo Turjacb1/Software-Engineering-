@@ -1,6 +1,9 @@
 Web Development Project -- Shopping_Cart
 Language - Javascript
 Framework- React
-         25-02-26 -- Project Planning and Basic 
+        | Lab Day | Date       | Activity Description       |
+|---------|------------|----------------------------|
+| Lab 01  | 25/02/2026 | Project Plan and Basic work    |
+                          |
 
 
